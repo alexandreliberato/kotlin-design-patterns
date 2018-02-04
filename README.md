@@ -2,6 +2,9 @@
      that smart and dearly wants an empty line before a heading to be able to
      display it as such, e.g. website) -->
 
+# Design patterns implemented in Kotlin
+work in progress: [Kotlin branch](https://github.com/MohamedISoliman/kotlin-design-patterns/tree/Kotlin-implementation)  
+
 # Design patterns implemented in Java
 
 [![Build status](https://travis-ci.org/iluwatar/java-design-patterns.svg?branch=master)](https://travis-ci.org/iluwatar/java-design-patterns)
