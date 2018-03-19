@@ -1,6 +1,4 @@
-package com.iluwatar.visitor.kotlin
-
-import java.util.*
+package com.iluwatar.visitor.kotlin.example1
 
 
 class Commander(vararg val unitss: Unit) : Unit(*unitss) {

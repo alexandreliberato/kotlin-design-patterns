@@ -1,4 +1,4 @@
-package com.iluwatar.visitor.kotlin
+package com.iluwatar.visitor.kotlin.example1
 
 fun main(args: Array<String>) {
 
