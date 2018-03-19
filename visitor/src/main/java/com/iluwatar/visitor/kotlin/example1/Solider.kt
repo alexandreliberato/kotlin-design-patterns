@@ -1,9 +1,7 @@
-package com.iluwatar.visitor.kotlin
-
-import java.util.*
+package com.iluwatar.visitor.kotlin.example1
 
 
-class Sergeant(vararg val unitss: Unit) : Unit(*unitss) {
+class Solider(vararg val unitss: Unit) : Unit(*unitss) {
 
     override fun accept(unitVisitor: UnitVisitor) {
         unitVisitor.visit(this)
@@ -11,7 +9,7 @@ class Sergeant(vararg val unitss: Unit) : Unit(*unitss) {
     }
 
     override fun toString(): String {
-        return "Sergeant"
+        return "Solider"
     }
 
 

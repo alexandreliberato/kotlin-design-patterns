@@ -1,6 +1,113 @@
 <!-- the line below needs to be an empty line C: (its because kramdown isnt
      that smart and dearly wants an empty line before a heading to be able to
      display it as such, e.g. website) -->
+     
+# Design patterns implemented in Kotlin  
+
+## TODO List
+- [ ] abstract-document. 
+- [ ] abstract-factory.
+- [ ] adapter.
+- [ ] aggregator-microservices.
+- [ ] api-gateway.
+- [ ] balking.
+- [ ] bridge.
+- [ ] builder.
+- [ ] business-delegate.
+- [ ] caching.
+- [ ] callback.
+- [ ] chain.
+- [ ] command.
+- [ ] composite.
+- [ ] converter.
+- [ ] cqrs.
+- [ ] dao.
+- [ ] data-bus.
+- [ ] data-mapper.
+- [ ] data-transfer-object.
+- [ ] decorator.
+- [ ] delegation.
+- [ ] dependency-injection.
+- [ ] double-checked-locking.
+- [ ] double-dispatch.
+- [ ] eip-aggregator.
+- [ ] eip-splitter.
+- [ ] eip-wire-tap.
+- [ ] event-aggregator.
+- [ ] event-asynchronous.
+- [ ] event-driven-architecture.
+- [ ] event-queue.
+- [ ] event-sourcing.
+- [ ] execute-around.
+- [ ] extension-objects.
+- [ ] facade.
+- [ ] faktory-kit.
+- [ ] factory-method.
+- [ ] feature-toggle.
+- [ ] fluent-interface.
+- [ ] flux.
+- [ ] flyweight.
+- [ ] front-controller.
+- [ ] gaurded-suspension.
+- [ ] half-sync-half-async.
+- [ ] hexagonal.
+- [ ] intercepting-filter.
+- [ ] interceptor.
+- [ ] iterator.
+- [ ] layers.
+- [ ] lazy-loading.
+- [ ] marker.
+- [ ] mediator.
+- [ ] memento.
+- [ ] message-channed.
+- [ ] model-view-controler.
+- [ ] model-view-presenter.
+- [ ] module.
+- [ ] monad.
+- [ ] monostate.
+- [ ] multition.
+- [ ] mute-idiom.
+- [ ] mutex.
+- [ ] naked-objects.
+- [ ] null-object.
+- [ ] object-mother.
+- [ ] object-pool.
+- [ ] observer.
+- [ ] page-object.
+- [ ] partial-response.
+- [ ] poison-pill.
+- [ ] private-class-data.
+- [ ] producer-consumer.
+- [ ] promise.
+- [ ] property.
+- [ ] prototype.
+- [ ] proxy.
+- [ ] publish-subscribe.
+- [ ] que-load-leaving.
+- [ ] reactor.
+- [ ] read-writer-lock.
+- [ ] repository.
+- [ ] resource-acquisition-is-initialization.
+- [ ] retry.
+- [ ] semaphore.
+- [ ] servant.
+- [ ] service-layer.
+- [ ] service-locator.
+- [x] singleton.
+- [ ] specification.
+- [ ] state.
+- [ ] step-builder.
+- [x] strategy.
+- [ ] template-method.
+- [ ] thread-pool.
+- [ ] throttling.
+- [ ] tls.
+- [ ] tolerant-reader.
+- [ ] twin.
+- [ ] unit-of-work.
+- [ ] value-object.
+- [x] visitor.  
+
 
 # Design patterns implemented in Kotlin
 work in progress: [Kotlin branch](https://github.com/MohamedISoliman/kotlin-design-patterns/tree/Kotlin-implementation)  
